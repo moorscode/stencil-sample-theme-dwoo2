@@ -1,0 +1,96 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Stencil\n"
+"POT-Creation-Date: 2015-12-31 17:50+0100\n"
+"PO-Revision-Date: 2015-12-31 17:50+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: stencil.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/stencil/bootstrap.php:65
+#, php-format
+msgid ""
+"<em>Theme - Implementation conflict</em>. The active theme requires the "
+"Stencil Implementation: <em>%s</em> to be active."
+msgstr ""
+
+#: classes/stencil/config.php:74
+msgid "Stencil implementations"
+msgstr ""
+
+#: classes/stencil/config.php:98
+msgid "Implementations"
+msgstr ""
+
+#: classes/stencil/config.php:121
+#, php-format
+msgid "PHP version %s required, %s available."
+msgstr ""
+
+#: classes/stencil/config.php:161
+msgid "Stencil settings"
+msgstr ""
+
+#: classes/stencil/config.php:169
+msgid "Install selected implementation(s)"
+msgstr ""
+
+#: classes/stencil/config.php:194
+msgid "Installing plugins..."
+msgstr ""
+
+#: classes/stencil/config.php:204
+#, php-format
+msgid "Plugin %s could not be installed!"
+msgstr ""
+
+#: classes/stencil/config.php:213
+msgid "Done."
+msgstr ""
+
+#: register.php:37
+msgid "The plugin <em>\"Stencil\"</em> needs to be activated."
+msgstr ""
+
+#: stencil.php:45
+msgid ""
+"A class named \"Stencil\" exists. This means that the plugin \"Stencil\" can "
+"not operate."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Stencil"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/moorscode/stencil/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Ever wanted to use a \"real\" templating engine to build your theme on? With "
+"Stencil you can! Enable the Addon that provides the engine you want to use "
+"and be up and running in no time. Addons available for Smarty 2, Smarty 3, "
+"Twig and more!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Jip Moors (moorscode)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.jipmoors.nl"
+msgstr ""
