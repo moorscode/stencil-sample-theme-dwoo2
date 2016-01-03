@@ -56,4 +56,4 @@ tools:
 
 filter:
     excluded_paths:
-        - lib/*
+        - stencil/*/lib/*
